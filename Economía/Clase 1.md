@@ -56,7 +56,7 @@
 
 ## Esquema Económico
 
-![alt text](Esquema Económico.png)
+![alt text](https://github.com/L-Orsi/Apuntes/blob/master/Econom%C3%ADa/Esquema%20Econ%C3%B3mico.png)
 
 
 - El factor tiempo puede ser una restricción adicional
