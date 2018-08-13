@@ -19,7 +19,7 @@
   - Muchas veces existen enunciados _grises_, cuyo tipo de análisis es difícil de determinar (por ejemplo, enunciados cuya construcción es una clara causa-efecto pero el tono de voz con el que fueron enunciados denotan aprovación/rechazo por parte de quien lo está afirmando)
 - Principio de __Ceteris Paribus__ : Consiste un análisis parcial en el cual se tiene un problema o sistema de gran cantidad de variables o parámetros y para su estudio se varía únicamente uno de ellos (dejando el resto constante) para observar la incidencia que el mismo tiene por si solo en todo el sistema
 ## Sistemas Económicos
-- __Sistema Económico__ _(Definición del Gordo)_: Es un conjunto de hombres y organizaciones con un fin común que comparten motivaciones, capacidades y limitaciones debidas a la dotación de recursos disponibles en un contexto dado (histórico, geográfico, cultural, etc.). Los integrantes establecen entre sí relaciones de producción (intercambio-distribución) y consumo
+- __Sistema Económico__ _(Definición de clase)_: Es un conjunto de hombres y organizaciones con un fin común que comparten motivaciones, capacidades y limitaciones debidas a la dotación de recursos disponibles en un contexto dado (histórico, geográfico, cultural, etc.). Los integrantes establecen entre sí relaciones de producción (intercambio-distribución) y consumo
 - Las decisiones son __individuales__ y __descentralizadas__ ya que cada individuo o unidad económica toma las mismas pensando en su propio beneficio o utilidad
 ### Modelos económicos
 - __Libre juego de Oferta y Demanda__ _(Adam Smith)_ : Propone que no haya un estado que intervenga el mercado y que el mismo se regule por la libre oferta y demanda de bienes y servicios. En esta teoría se presenta la idea de una __mano invisible__ que se encarga de distribuir las riquezas de forma apropiada como consecuencia del libre mercado
@@ -30,7 +30,7 @@
 
 ## Oferta y Demanda
 - __Demanda__ : Mide la disposición de las personas a intercambiar su dinero por bienes o servicios onerosos. Relaciona la capacidad de compra con la escasez de los bienes.
-- __Curva de Demanda__ (_definición del gordo_): Es la cantidad de bienes y/o servicios (unidades) que una persona está dispuesta a adquirir en función de un número de variables
+- __Curva de Demanda__ (_definición en clase_): Es la cantidad de bienes y/o servicios (unidades) que una persona está dispuesta a adquirir en función de un número de variables
 - Factores especiales de modificación de precios:
   - Especulación : Es aquella situación en la que quienes ponen los precios estiman que algún evento a futuro llevará a que tengan que aumentarlos y se "anticipan" a este hecho
   - Ostentación : Aquella situación en la que una persona adquiere un bien por encima del precio que estaría dispuesto a pagar normalmente para ostentar
@@ -39,7 +39,7 @@
   - Fenómeno de Renta
   - A medida que los precios aumentan hay menos personas dispuestas a adquirir un bien
 - Los cruces por 0 de la curva no tienen sentido:
-  - Si corta al eje X implicaría que para precio $0 habría demanda finita. Esto no tiene sentido, ya que si algo es completamente gratis, la gente no pondría un límite a la cantidad que adquiría de ese producto (según el gordo, yo no estoy de acuerdo)
+  - Si corta al eje X implicaría que para precio $0 habría demanda finita. Esto no tiene sentido, ya que si algo es completamente gratis, la gente no pondría un límite a la cantidad que adquiriría de ese producto (yo no estoy de acuerdo, pero así fue dicho en clase)
   - Si corta al eje Y  tampoco tiene sentido, ya que nadie pondría un precio a un producto si a ese valor nadie le compra
 - Cuando hay variación de precio se habla de un __movimiento__ en la curva de demanda_ ya que involucra moverse dentro de la mismas
 - Hay __Desplazamiento__ cuando un cambio en alguna variable provoca "correr" la curva. Por ejemplo, un aumento general en los salarios desplazaría la curva hacia la derecha
