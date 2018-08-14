@@ -8,4 +8,4 @@
 - ccr es la parte menos significativa de sr
 - Los registros r son siempre no signados
 - El registro Y es, por defecto, signado
-- 
+- Scaling mode : shiftea luego de la operación
