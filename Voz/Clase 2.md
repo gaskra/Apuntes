@@ -73,3 +73,11 @@
 - Los diámetros de nuestros modelos no coincidirán con los reales ya que ignoramos la naríz
 - Utilizando LMS se puede utilizar para predecir los parámetros de forma muy buena
 - El modelo viste en clase sirve también para modelar sonidos 'shh' a pesar de en la realidad la configuración necesaria para producirlos es distinta
+- Existen resonadores en las cavidades, que se denominan F1,F2,F3,F4,F5.
+  - F1 : Apertura de boca
+  - F2 : Articulación de la boca
+- Con F1 y F2 se puede determinar la vocal
+- F1 disminuye con el cierre de la boca
+- F2 en la i es muy alta (punto de articulación delantero)
+- Puede ser que en algunos casos F2 quede antes de F1
+- Cada persona tiene su distribución (porque no siempre la pronuncia igual, hay varias formas) de vocales
