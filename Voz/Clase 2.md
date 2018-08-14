@@ -1,0 +1,31 @@
+# Fiambres
+## El aparato fonador
+- Existen órganos de respiración, fonación y articulación dentro del aparato fonador. Recordar que estos órganos tienen múltiples funciones a parte de las mencionadas.
+- Fuente de corriente (flujo continuo de aire gracias a los órganos de respiración), rectificador y filtro sería el equivalente en términos elecrónicos
+- El camino (tráquea) a los pulmones es rígido. De no serlo, sería fácil que se tapara la vía respiratoria lo cual sería un problema vital. No ocurre lo mismo en el camino que va al estómago
+- Los pulmones funcionan por una diferencia de presión
+- En una buena simulación de voz, se notaría la respiración (debe ser modelado correctamente)
+- La laringe (órgano de fonación) produce el fenómeno de Bernoulli que concluye en un proceso de rectificación (transforma una señal continua de aire en una alterna)
+- Un sonido __sonante__ es aquel en el que las cuerdas vocales se activan
+- Los órganos de articulación filtran la señal alternada y permite producir diferentes vocales
+- El __diafragma__ es el encargado de contraer y expandir el pulmón
+- Lo que contiene la caja toráxica es lo más importante para la vida
+- El hipo es una contracción involuntaria del diafragma
+- La __epíglotis__ es la que se encarga de determinar si lo que ingresa pasa al aparato digestivo o no
+- La lengua ayuda a modular las señales aeróbicas, define un filtro pasa-banda
+- El __aparato fonador__ tiene muchos músculos. La epíglotis protege a este aparato de sólidos y/o líquidos
+- Los músculos solamente pueden contraerse
+- Hay un punto en el aparato fonador que de mueve con varios músculos y determinan el tono (frecuencia)
+-  Las cuerdas vocales con pieles con mucosidad para que se mantengan húmedas
+- Hay cuerdas vocales verdaderas y falsas (las solo producen una resonancia pero no vibran)
+- La __glotis__ es la apertura entre las cuerdas vocales (es simplemente un agujero que se encuentra en la laringe)
+- Las cuerdas vocales se tensan cuando uno habla
+- 12 a 17 y 17 a 25 es el espesor de las cuerdas vocales en mm de mujeres y hombres respectivamente. Está directamente relacionado con la frecuencia de la voz
+- Las cuerdas vocales se pueden modelar como un conjunto de tubos de distinto diámetro
+- El aparato fonador se puede modelar como un ARMA
+- La lengua tiene muchas fibras, por lo cual se puede mover de muchas formas y permite generar múltiples sonidos diferentes
+- Los dientes al ser duros tienen una impedancia distinta al aire, provocando mucho rebote. Explica por qué se pueden producir sonidos que no salen de la faringe ('shhh')
+- Sonidos como 'f' y 's' dependen de los dientes
+- La interacción labios y dientes permite modificar la frecuencia del pasa-banda de sonidos como el 'shh'
+- Los labios regulan la interacción entre los sonidos que provienen del interior al exterior
+- 
