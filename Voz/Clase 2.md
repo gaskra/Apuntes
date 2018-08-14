@@ -28,4 +28,48 @@
 - Sonidos como 'f' y 's' dependen de los dientes
 - La interacción labios y dientes permite modificar la frecuencia del pasa-banda de sonidos como el 'shh'
 - Los labios regulan la interacción entre los sonidos que provienen del interior al exterior
-- 
+
+## Fonética articulatoria
+- Cuando se susurra no se activan las cuerdas sonóras
+- La primera clasificación es
+  - _sonoros_ : los que activan las cuerdas
+  - _sordos_ : no activan las cuerdas
+- El __punto de articulación__ es el lugar de máximo estrechamiento.
+  Ej. i : zona 8
+- __Vocales__ : no hay obstrucción en las cavidades (apertura de la boca, labios y puntos de articulación)
+- Una __formante__ es una frecuencia con mucha energía
+- Hay relación entre la formante y las vocales. Se podrían distinguir en principio mirando la frecuencia
+- Los sonidos "clics" tienen poca energía y baja duración. Los sonidos sonoros son más fáciles de reconocer. Es importante el contexto para una muy buena detección.
+- __Consonantes__:
+  - Obstruyentes : Tienen una obstrucción en el trayecto de aire
+    - Oclusivas : oclusión y liberación de energía (P,T,C). Corta duración. Difíciles de reconocer. Baja energía  
+    - Fricativas : Son turbulentas (S,F,J)
+    - Africadas : Empiezan oclusivas y siguen fricativas (CH,X)
+  - Sonantes : Consonantes sonóras (obstrucción + activación de cuerdas)
+    - Nasales: El sonido sale por la nariz casi en totalidad (M,Ñ)
+    - Líquidas: Parte de la cavidad está ocluida (L,R)
+    - Aproximantes : El punto de articulación está ocluído pero no totalmente (B,D,G)
+  - No-pulmonar :
+    - Eyectivas
+    - Implosivas
+    - Chasquidos (clics)
+- Acento
+  - Lexical : es el que va escrito
+  - Prosódico : es para enfatizar en el habla
+
+
+## Modelado del mecanismo de producción de voz
+- No es posible mantener un sonido en el aire constante (hay al menos mínimas variaciones de tono y volumen)
+- Las fuentes periódicas estacionarias suenan de forma metálica
+- Mecanismo de __Bernoulli__ se produce gracias a una mucosa que puede cerrar o dejar pasar el aire y puede _choppearlo_ en pulsos separados
+- 80 a 150, 150 a 300 son los rangos en Hz de hombres y mujeres respectivamente
+- El espectro de los pulsos glotales es pasabajo de primer orden al principio. Sin embargo, no es un filtro de primer orden porque la caida no es pareja después. Además tiene alinealidades
+- Los pulsos glotales son localmente estacionarios, pero suprasegmentalmente no
+- La voz no puede cambiar de tono bruscamente
+- Se tarda mas o menos 10-20 ms para cambiar de tono rápidamente
+- Se va a obviar la parte nasal para el modelado del tubo en este curso
+- La secuencia de tubos se representa por IRR
+- Los filtros Lattice representan la reflexión y transmisión de los tubos de diferente diámetro. Consideramos que cada tubo tiene espesor fijo
+- Los diámetros de nuestros modelos no coincidirán con los reales ya que ignoramos la naríz
+- Utilizando LMS se puede utilizar para predecir los parámetros de forma muy buena
+- El modelo viste en clase sirve también para modelar sonidos 'shh' a pesar de en la realidad la configuración necesaria para producirlos es distinta
