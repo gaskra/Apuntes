@@ -51,3 +51,4 @@
 - En los paralelos es la suma menos la intersección. Ver fórmula con binomial
 - Todo aquel elemento de conmutación tiene doble modalidad de falla (que salte cuando no debería, que no salte cuando debería saltar)
 - El conmutador debe tener <10% de la tasa de fallas de los elementos a salvar
+- La clave está en sacar la confiabilidad en el tiempo que se desea, no sólo en lo que da el lambda
