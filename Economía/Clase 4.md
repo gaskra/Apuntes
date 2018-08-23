@@ -56,4 +56,7 @@
 - Costo contable: son los gastos reales más la despreciación del equipo de capital
 - Costo económico : aquél que tiene para una empresa la utilización de recursos económicas en la producción, incluido en el costo de oportunidad
 - En economía también se considera el costo de oportunidad. Por ende, el costo económico es > que el contable
--  
+- Clasificación :
+  - Costos fijos: es independiente del nivel de producción
+  - Costos variables: varía cuando aumenta la producción 
+  - Costos totales : es la suma de ambos
