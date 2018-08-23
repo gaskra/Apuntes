@@ -64,3 +64,4 @@
 - La demanda es elástica, al empresario le conviene reducir sus precios
 - Si la demanda es inelástica, al empresario le conviene elevar el precio
 - Si es unitaria maximiza su recaudación
+- Esto es para hallar el máximo ingreso de caja, que no necesariamente implica máximo beneficio
