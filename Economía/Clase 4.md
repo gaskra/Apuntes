@@ -1,3 +1,4 @@
+# Clase 4
 ## Elasticidad - Renta (u elasticidad precio)
 - Elasticidad Ingreso :
   - e_i = delta(Qd)%/delta(I)%
@@ -23,7 +24,7 @@
 - Estabilidad de la oferta:
   - TBD
 
-# Tecnología de Producción
+## Tecnología de Producción
 - Función neoclásica :
   - (X = Producción) =(A = Acknowledgement) * f(k = capital, L = trabajo, tiempo)
   - La A es una constante porque la tecnología no suele variar con el tiempo con la misma sensibilidad que el resto de las variables involucradas
@@ -58,5 +59,7 @@
 - En economía también se considera el costo de oportunidad. Por ende, el costo económico es > que el contable
 - Clasificación :
   - Costos fijos: es independiente del nivel de producción
-  - Costos variables: varía cuando aumenta la producción 
+  - Costos variables: varía cuando aumenta la producción
   - Costos totales : es la suma de ambos
+- El óptimo ocurre cuando CM es igual a CVMe, en cuanto a trabajo
+- A largo plazo

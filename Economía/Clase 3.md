@@ -1,10 +1,11 @@
-# Mercado
+# Clase 3
+## Mercado
 - Un equilibrio puede ser transitorio. Supone que la cantidad de mandada de los compradores coincide con la cantidad ofertada por los oferentes
 - Un excedente de producción (u __exceso de oferta__) se da cuando hay más producción que demanda. Ocurre cuando se pone un precio mayor al de equilibrio
 - El __brazo corto del mercado__ es el que manda
 - Los oferentes se deben dar cuenta de que deben reducir los precios para poder vender todo lo que producen
-- Escasez o __exceso de demanda__. Ocurre cuando el precio está bajo y existen grandes cantidades de personas dispuestas a adquirirlos y no van a ser suficientes. El brazo corto pasa a ser la oferta.
-- Cuando hay variación de precio recordar que hay solamente __movimiento__, NO desplazamiento
+- Escasez o __exceso de demanda__. Ocurre cuando el precio está bajo y existen grandes cantidades de personas dispuestas a adquirirlos y los bienes y/o servicios en cuestión no van a ser suficientes. El brazo corto pasa a ser la oferta.
+- Cuando hay variación de precio recordar que hay solamente __movimiento__, NO desplazamiento en las curvas
 - Si los costos no cambian, el oferente siempre quiere ganar más y le sería deseable aumentar sus precios
 - Si el precio de las __materias primas__ disminuyen, la curva de oferta de desplazaría hacia la derecha (incentivo a producir más unidades, __aumento de la oferta__). Esto ocurre si y solo si la demanda puede acompañar ese excedente de producción. Eso en general ocurre si el precio baja.
 - Si baja el costo de las materias primas pero el precio no cambia, habría un excedente de oferta. Para ello, el precio debería disminuir para lograr el equilibrio.
@@ -20,7 +21,7 @@
     - Debe colocarse por debajo del equilibrio
     - Si no se hace más nada se generaría una situación de exceso de demanda
     - En la realidad aparece un mercado negro para poder venderlo al precio que ellos quieren
-    - Si los oferentes no cambian nada, ambos excedentes disminuyen. Genera una __pérdida de eficiencia__ porque se pasa a producir menos de lo que realmente podrían (va en contra de la optimización de la economía)
+    - Si los oferentes no cambian nada, ambos excedentes disminuyen. Genera una __pérdida de eficiencia__ porque se pasa a producir menos de lo que realmente se podría (va en contra de la optimización de la economía)
     - Ocurre además una disminución del excedente de los productores y posiblemente un aumento del excedente de los consumidores
     - Para no generar pérdida de eficiencia, debería desplazarse la oferta hacia la derecha (aumento de oferta). Para lograr esto los oferentes necesitan abaratar los costos. Aumentaría el excedente total, pero a costa de una ayuda del estado (se beneficia el sector privado, pero no el público)
     - Sino, el gobierno puede multar a aquellos que no cumplan con la disposición. En parte es gasto del estado también (por los controles) y los empresarios acuden a sobornos y mercado negro
@@ -31,19 +32,18 @@
       - Se achica el margen de los consumidores, aumenta el de los oferentes. El excedente total aumenta. Sería un excedente de beneficio para la sociedad , pero pierde el estado a la hora de subsidiar , por lo que no hay beneficio
   - Incidencia de un impuesto:
       - El impuesto tipo IVA es malo tanto para consumidor como para el vendedor
-      - Se provocó una pérdida de eficiencia
+      - Se provoca una pérdida de eficiencia
       - Los dos excedentes disminuyen
       - Gana el estado
-      - Tener cuidado con el perfil de la curva
 - La pendiente de la demanda es mayor cuando el bien es primario
-- __Subvención__: suma para gastos operativos que ofrece el estado a las empresas. Es darle plata. Es como eximir de pagar un impuesto y no se traslade a precios el aumento de costo
+- __Subvención__: suma para gastos operativos que ofrece el estado a las empresas. Es darle plata. Es como eximirlas de pagar un impuesto y que no se traslade a precios el aumento de costo
 - __Subsidio__ : Ayuda, no necesariamente monetaria, a un ente para un fin específico. Los entes deben demostrar al estado que están usando dicha ayuda para el objetivo pactado. El efecto producido es contrario al impuesto. Aumenta el excedente (no la eficiencia), pero es costo adicional para el estado. El costo es mayor que el excedente producido
 - Dependiendo de su urgencia, un individuo está dispuesto a pagar un valor determinado (__precio de reserva__). Si le sale más barato, esa diferencia es el __excedente del consumidor__
 - El excedente del productor es la diferencia entre el valor al que el oferente está dispuesto a vender y el precio al que efectivamente lo vende (si la diferencia es positiva)
 
 ## Elasticidad
-- Cuanto puede generar de modificación o variación en una variable si hubo un cambio en otra
-- Demanda: Como cambia la cantidad demandada de los consumidores si le cambian el precio del producto que quieren comprar. Según las leyes de demanda, sería inversamente proporcional respecto al precio.
+- Cuánto puede generar de modificación o variación en una variable si hubo un cambio en otra
+- Demanda: Cómo cambia la cantidad demandada de los consumidores si le cambian el precio del producto que quieren comprar. Según las leyes de demanda, sería inversamente proporcional respecto al precio.
   - Elasticidad-Precio : - cambio en la cantidad demandada / cambio en el precio del producto (porcentual). Se estudia como incide un cambio en el precio (causa) en la cantidad demandada (precio). No tiene dimensiones
   - La pendiente no es porcentual porque tiene que tener las unidades correctas para poder interpretarlo en el gráfico típico de oferta y demanda
   - No confundir elasticidad con pendiente
@@ -60,8 +60,7 @@
 - A maś sustitutos más elástico
 - A más necesidad más inelástico
 - A mayor proporción de mi gasto, más elástico
-
-- La demanda es elástica, al empresario le conviene reducir sus precios
+- Si la demanda es elástica, al empresario le conviene reducir sus precios
 - Si la demanda es inelástica, al empresario le conviene elevar el precio
 - Si es unitaria maximiza su recaudación
 - Esto es para hallar el máximo ingreso de caja, que no necesariamente implica máximo beneficio
