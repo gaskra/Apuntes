@@ -21,8 +21,8 @@
     - Si es mayor que 1 (técnicamente menor que -1, pero se suele tomar el módulo) son muy complementarios
     - Si es mayor que -1 (pero menor que 0) son poco complementarios
   - Si uno no cambia con la variación del otro, son __independientes__
-- Estabilidad de la oferta:
-  - TBD
+- Elasticidad de la oferta:
+  - Muestra cuanto cambia la cantidad ofrecida de un bién en función de la variación en su precio
 
 ## Tecnología de Producción
 - Función neoclásica :
