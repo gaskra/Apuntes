@@ -1,6 +1,6 @@
 # Clase 3
 ## Mercado
-- Un equilibrio puede ser transitorio. Supone que la cantidad de mandada de los compradores coincide con la cantidad ofertada por los oferentes
+- Un equilibrio puede ser transitorio. Supone que la cantidad demandada de los compradores coincide con la cantidad ofertada por los oferentes
 - Un excedente de producción (u __exceso de oferta__) se da cuando hay más producción que demanda. Ocurre cuando se pone un precio mayor al de equilibrio
 - El __brazo corto del mercado__ es el que manda
 - Los oferentes se deben dar cuenta de que deben reducir los precios para poder vender todo lo que producen
