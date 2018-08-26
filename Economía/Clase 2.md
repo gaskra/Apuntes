@@ -3,7 +3,7 @@
 - __Costo__ : Involucra un esfuerzo o sacrificio para obtener algo a cambio
 - El __costo de oportunidad__ se mide a través de la mejor alternativa dejada de lado al tomar la decisión de llevar a cabo una actividad (mutuamente excluyente con aquella que no se ha elegido)
 - Según la teoría económica, una persona desempleada al tomar un empleo, en principio, no paga ningún costo de oportunidad, ya que al no trabajar, no estaba ganando dinero
-- Desde la perspectiva del gordo maraca, sí existe un costo de oportunidad no monetario, ya que la persona al comenzar a trabajar resigna su tiempo libre, estar con su familia, etc.
+- Desde la perspectiva del profesor, sí existe un costo de oportunidad no monetario, ya que la persona al comenzar a trabajar resigna su tiempo libre, estar con su familia, etc.
 
 ## Microeconomía
 - La __microeconomía__ se ocupa de una unidad económica (persona, familia o empresa) , analizando las __decisiones__ que debe tomar en función de los __recursos__ que tiene disponible
