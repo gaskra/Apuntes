@@ -1,6 +1,6 @@
 ## Monopolio
 
-- Un **Monopolista** es aquél que ofrece en el mercado un producto único (por lo cual podría decirse que él _es_ e mercado). Por ello puede modificar el precio del bien que comercializa, sin preocuparse de que otros competidores pudiesen vender un producto sustituto al suyo a un menor precio acaparando un porcentaje mayor de su mercado.
+- Un **Monopolista** es aquél que ofrece en el mercado un producto único (por lo cual podría decirse que él _es_ el mercado). Por ello puede modificar el precio del bien que comercializa, sin preocuparse de que otros competidores pudiesen vender un producto sustituto al suyo a un menor precio acaparando un porcentaje mayor de su mercado.
 - El _ingreso medio_ del monopolista queda determinado por la curva de demanda del mercado
 - El máximo beneficio que obtiene un monopolista, y será aquel punto que éste buscará alcanzar en auscencia de factores externos que no se lo permitan, es aquel en el que su _Ingreso Marginal_ iguale su _Costo Marginal_
 
